@@ -19,8 +19,8 @@ def make_sound
   return "Growl"
 end
 
-
-
-
+def food_count
+  @stomack.count
+end
 
 end
